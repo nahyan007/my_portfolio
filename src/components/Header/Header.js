@@ -32,17 +32,17 @@ const Header = () => (
     <Div2>
       <li>
         <Link href="#projects">
-          <NavLink>Projects</NavLink>
+          <NavLink style={{ marginLeft: "8px" }}>Projects</NavLink>
         </Link>
       </li>
       <li>
         <Link href="#tech">
-          <NavLink>Technologies</NavLink>
+          <NavLink style={{ marginLeft: "8px" }}>Technologies</NavLink>
         </Link>
       </li>
       <li>
         <Link href="#about">
-          <NavLink>About</NavLink>
+          <NavLink style={{ marginLeft: "8px" }}>About</NavLink>
         </Link>
       </li>
     </Div2>
