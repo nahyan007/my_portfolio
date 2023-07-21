@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'GPT-3',
     description: "Using React, Tailwindcss I build a Full Responsive website - from start to finish. The Website is called GPT-3 and it is a simple Blog Website Where you can learn more about CGPT-3.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'CSS'],
     source: 'https://github.com/nahyan007/gpt-3/tree/main',
     visit: 'https://all-about-gpt-3.netlify.app/',
@@ -29,8 +29,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Completed Secondary School Certificate', },
-  { year: 2017, text: 'Completed Higher Secondary Certificate', },
-  { year: '2019 - 2021', text: ' worked as a Graphics Designer at Tech Square E-commerce shop', },
   { year: 2023, text: 'Completed B.Sc. Engineering in CSE', },
+  { year: '2019 - 2021', text: ' worked as a Graphics Designer at Tech Square E-commerce shop', },
+  { year: 2017, text: 'Completed Higher Secondary Certificate', },
+  { year: 2015, text: 'Completed Secondary School Certificate', },
 ];
